@@ -7,6 +7,7 @@
 
 **New Energy Coder Club** · 连接、启发、赋能新能源领域的开发者与爱好者
 
+[![组织主页](https://img.shields.io/badge/🏠_组织主页-GitHub_Hub-181717?style=for-the-badge&logo=github)](https://github.com/new-energy-coder-club)
 [![官网](https://img.shields.io/badge/🌐_官网-newenergycoder.club-0ea5e9?style=for-the-badge)](https://www.newenergycoder.club)
 [![主仓库](https://img.shields.io/badge/📚_主仓库-new_energy_coder_club-22c55e?style=for-the-badge)](https://github.com/new-energy-coder-club/new_energy_coder_club)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
@@ -32,6 +33,15 @@ NEC 是一个聚焦 **新能源 × 机器人竞赛 × 开源实战** 的工程�
 |---|---|---|
 | [new_energy_coder_club](https://github.com/new-energy-coder-club/new_energy_coder_club) | 社区主仓库：竞赛资料、开源项目、技术文档 | Markdown / 资料库 |
 | [newenergycoder.club](https://github.com/new-energy-coder-club/newenergycoder.club) | 社区官网，展示社区动态与项目入口 | React + Vite |
+
+## 🔗 快速入口
+
+| 入口 | 链接 |
+|---|---|
+| 🏠 组织主页 | https://github.com/new-energy-coder-club |
+| 🌐 社区官网 | https://www.newenergycoder.club |
+| 📚 主仓库 | https://github.com/new-energy-coder-club/new_energy_coder_club |
+| ⚙️ 本仓库 | https://github.com/new-energy-coder-club/.github |
 
 ## 🙌 加入我们
 
